@@ -1,0 +1,9 @@
+Not-imputing :
+All variables - (-142.7345)
+Removing under.five.deaths - (-144.3283)
+Removing under.five.deaths and thinness - (-146.2144)
+
+Imputing :
+All variables - (-251.6998)
+Removing under.five.deaths - (-250.354)
+Removing under.five.deaths and thinness - (-250.32)
